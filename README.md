@@ -1,5 +1,7 @@
 # Petrography2SEM
 
+Python version: 3.8.16 (conda env) <br />
+
 Use crop_images.py to divide images into folders crop_1 to crop_4 <br />
 
 dataset structure: <br />
