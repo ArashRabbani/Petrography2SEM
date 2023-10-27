@@ -26,7 +26,7 @@ It contains a generator and discriminator based on U-Net architecture.
 
 The model is trained to translate between PPL, XPL and BSD, SE images using adversarial loss and L1 loss.
 
-Training is done using `pip2pix_train.ipynb` notebook.
+Training is done using `cGAN.ipynb` notebook.
 
 ### U-Net
 A standard U-Net model with encoder-decoder structure and skip connections is implemented in `U-net.ipynb`.
