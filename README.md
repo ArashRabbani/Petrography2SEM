@@ -10,7 +10,9 @@ The data used is a dataset of images of carbonate concretions from the St Lawren
 - SEM images generated using backscattered electron detector (BSD)
 - SEM images generated using secondary electron detector (SE) 
 
-The images are provided as 3-channel and 6-channel RGB images for PPL and XPL, and grayscale images for BSD and SE.
+The images are provided as 3-channel and 6-channel RGB images for PPL and XPL, and grayscale images for BSD and SE. 
+
+This dataset can be found in [Zenodo](https://zenodo.org/records/10056251).
 
 ## Preprocessing
 The `crop_images.py` script is used to crop the large images into smaller crops to create the training data. 
